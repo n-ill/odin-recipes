@@ -1,0 +1,10 @@
+* {
+    background-color: #303030;
+    text-align: center;
+    color: #eaeaea;
+    font-family: Verdana, sans-serif;
+}
+
+ol li, ul li {
+    text-align: left;
+}
